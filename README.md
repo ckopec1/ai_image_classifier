@@ -17,7 +17,7 @@ http://127.0.0.1:5000/
 
 ## Example Output
 * Upload image as shown below
-[image to analyze](ai_image_classifier/images/ford_lightning_still.png)
+[image to analyze](ai_image_classifier/ai_image_classifier/images/ford_lightning_still.png/)
 
 * Once image is uploaded and analyzed the output will result:
 ```
