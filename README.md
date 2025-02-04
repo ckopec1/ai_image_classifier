@@ -14,3 +14,14 @@ docker run -p 5001:5000 image-classifier-app
 ```
 http://127.0.0.1:5000/
 ```
+
+## Example Output
+* Upload image as shown below
+[image to analyze](../images/ford_lightning_still.png)
+
+* Once image is uploaded and analyzed the output will result:
+```
+Predictions:
+pickup (0.41%), minivan (0.14%), car_wheel (0.09%)
+```
+* The ratio shown above represents the confidence of the model. 41% confident that it is a pickup. This 
