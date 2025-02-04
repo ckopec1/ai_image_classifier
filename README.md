@@ -1,5 +1,7 @@
 # ai_image_classifier
-Upload image and have AI model describe the image. Basic app with no CSS yet.
+Upload image and have AI model describe the image. Basic app.
+
+![Home screen](images/home_screen.png)
 
 ## To deploy Docker container and host app locally
 1) Build the image
